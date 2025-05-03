@@ -7,7 +7,21 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>A machine learning project titled "Hotel Booking Cancellation Prediction", where I apply statistical models and Python to predict cancellation behavior using real-world data.<br><br>🤝 I’m looking to collaborate on:<br>Projects related to data science, machine learning, and statistics, especially where math meets real-world applications.<br><br>🌱 I’m currently learning:<br>Advanced machine learning techniques, data preprocessing, and model evaluation using Python, along with real-world datasets. I'm also exploring how mathematics drives intelligent systems.<br><br>💬 Ask me about:<br>Mathematics, statistics, data analysis, Python for data science, or anything about applying theory to practical problems.<br><br>🎯 Fun fact:<br>I enjoy translating complex mathematical ideas into code—and sometimes I solve math problems just for fun!<br><br>
+**🔭 I’m currently working on:**  
+A machine learning project titled **"Hotel Booking Cancellation Prediction"**, where I apply statistical models and Python to predict cancellation behavior using real-world data.
+
+**🤝 I’m looking to collaborate on:**  
+Projects related to **data science, machine learning, and statistics**, especially where math meets real-world applications.
+
+**🌱 I’m currently learning:**  
+Advanced machine learning techniques, data preprocessing, and model evaluation using Python. I'm also exploring how **mathematics drives intelligent systems**.
+
+**💬 Ask me about:**  
+**Mathematics, statistics, data analysis, Python for data science**, or anything about applying theory to practical problems.
+
+**🎯 Fun fact:**  
+I enjoy translating complex mathematical ideas into code—and sometimes I solve math problems just for fun!<br><br>
+
 
 
 ## 🚀 Projects
