@@ -35,7 +35,6 @@ A machine learning project that predicts whether a hotel booking will be cancele
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tayyab-data-scientist-mathematician) 
-📫 Reach me at: tayyab.mathds@gmail.com
 
 
 # 💻 Tech Stack:
