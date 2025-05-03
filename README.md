@@ -16,7 +16,7 @@
 A machine learning project that predicts whether a hotel booking will be canceled.  
 🔍 Built using real-world data and explored features like lead time, booking dates, and customer behavior.  
 🧠 Technologies: Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook  
-📂 [View Project Repository](https://github.com/YourUsername/YourProjectRepo)
+📂 [View Project Repository](https://github.com/YourUsername/YourProjectRepo)<br><br>
 
 
 ## 🌐 Socials:
