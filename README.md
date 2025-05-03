@@ -49,8 +49,8 @@ A machine learning project that predicts whether a hotel booking will be cancele
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadTayyabCoder&theme=blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadTayyabCoder&theme=darkblue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyabCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=MuhammadTayyabCoder&theme=blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyabCoder&theme=blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MuhammadTayyabCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
