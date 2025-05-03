@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 **🔭 I’m currently working on:**  
-A machine learning project titled **"Hotel Booking Cancellation Prediction"**, where I apply statistical models and Python to predict cancellation behavior using real-world data.
+I'm working on a machine learning project titled **"Hotel Booking Cancellation Prediction"**, where I apply statistical models in Python to predict cancellation behavior using real-world data.
 
 **🤝 I’m looking to collaborate on:**  
 Projects related to **data science, machine learning, and statistics**, especially where math meets real-world applications.
