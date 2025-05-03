@@ -27,6 +27,7 @@ I enjoy translating complex mathematical ideas into code—and sometimes I solve
 ## 🚀 Projects
 
 ### 🔹 Hotel Booking Cancellation Prediction
+![Hotel Booking Project Preview](https://your-image-link-or-gif.gif)
 A machine learning project that predicts whether a hotel booking will be canceled.  
 🔍 Built using real-world data and explored features like lead time, booking dates, and customer behavior.  
 🧠 Technologies: Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook  
