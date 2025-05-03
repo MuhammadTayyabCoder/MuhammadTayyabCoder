@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Blending Math with Data Science!</h1>
+<p>I’m passionate about turning data into decisions using statistics, Python, and AI.</p>
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>A machine learning project titled "Hotel Booking Cancellation Prediction", where I apply statistical models and Python to predict cancellation behavior using real-world data.<br><br>🤝 I’m looking to collaborate on:<br>Projects related to data science, machine learning, and statistics, especially where math meets real-world applications.<br><br>🌱 I’m currently learning:<br>Advanced machine learning techniques, data preprocessing, and model evaluation using Python, along with real-world datasets. I'm also exploring how mathematics drives intelligent systems.<br><br>💬 Ask me about:<br>Mathematics, statistics, data analysis, Python for data science, or anything about applying theory to practical problems.<br><br>🎯 Fun fact:<br>I enjoy translating complex mathematical ideas into code—and sometimes I solve math problems just for fun!<br><br>
 
