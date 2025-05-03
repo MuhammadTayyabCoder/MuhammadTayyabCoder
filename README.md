@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F779&lines=Mathematics+%2B+Machine+Learning+%3D+❤️;Exploring+Data+Science+with+Python;Let’s+Build+Something+Cool!)
 <h1>Hi 👋, I'm Blending Math with Data Science!</h1>
 <p>I’m passionate about turning data into decisions using statistics, Python, and AI.</p>
 
