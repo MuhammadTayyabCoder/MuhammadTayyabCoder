@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MuhammadTayyabCoder/MuhammadTayyabCoder/blob/main/banner image.jpeg" alt="Banner" />
+  <img src="Banner image.jpeg" alt="Banner" />
 </p>
 
 <h1>Hi 👋, I'm Blending Math with Data Science!</h1>
