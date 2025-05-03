@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/MuhammadTayyabCoder/MuhammadTayyabCoder/main/Banner image.jpeg" alt="Data Scientist & Mathematician Banner" />
+  <img src="https://github.com/MuhammadTayyabCoder/MuhammadTayyabCoder/blob/main/banner image.jpeg" alt="Banner" />
 </p>
+
 <h1>Hi 👋, I'm Blending Math with Data Science!</h1>
 <!-- Typing animation goes here -->
 <p>
